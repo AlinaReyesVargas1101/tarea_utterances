@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nombre": "Studio Ghibli",
+    "logo": "https://1000marcas.net/wp-content/uploads/2024/02/Studio-Ghibli-Logo.png",
+    "fundacion": "1985-06-15",
+    "fundador": ["Hayao Miyazaki", "Isao Takahata"],
+    "sede": "Tokio, Japón",
+    "link": "https://ghiblicollection.com/"
+  },
+  {
+    "id": 2,
+    "nombre": "Pixar",
+    "logo": "https://1000logos.net/wp-content/uploads/2023/01/Pixar-logo.png",
+    "fundacion": "1986-02-03",
+    "fundador": ["Ed Catmull", "Steve Jobs"],
+    "sede": "Emeryville, California, EE.UU.",
+    "link": "https://www.pixar.com/"
+  },
+  {
+    "id": 3,
+    "nombre": "Walt Disney Animation Studios",
+    "logo": "https://w7.pngwing.com/pngs/889/35/png-transparent-the-walt-disney-company-burbank-mickey-mouse-logo-walt-disney-s-mickey-mouse-heroes-company-text.png",
+    "fundacion": "1923-10-16",
+    "fundador": ["Walt Disney", "Roy O. Disney"],
+    "sede": "Burbank, California, EE.UU.",
+    "link": "https://disneyanimation.com/"
+     
+  },
+  {
+    "id": 4,
+    "nombre": "Aardman Animations",
+    "logo": "https://logos-world.net/wp-content/uploads/2023/04/Aardman-Animations-Logo.png",
+    "fundacion": "1972-11-12",
+    "fundador": ["Peter Lord", "David Sproxton"],
+    "sede": "Bristol, Reino Unido",
+    "link": "https://www.aardman.com/"
+  },
+  {
+    "id": 5,
+    "nombre": "DreamWorks Animation",
+    "logo": "https://cdn.worldvectorlogo.com/logos/dreamworks-animation.svg",
+    "fundacion": "1994-10-12",
+    "fundador": ["Steven Spielberg", "Jeffrey Katzenberg"],
+    "sede": "Glendale, California, EE.UU.",
+    "link": "https://www.dreamworks.com/"
+  },
+  {
+    "id": 6,
+    "nombre": "LAIKA Studios",
+    "logo": "https://pics.filmaffinity.com/laika_entertainment-185877075792657-nm_200.jpg",
+    "fundacion": "2005-07-20",
+    "fundador": ["Phil Knight", "Will Vinton"],
+    "sede": "Hillsboro, Oregón, EE.UU.",
+    "link": "https://www.laika.com/"
+  }
+]

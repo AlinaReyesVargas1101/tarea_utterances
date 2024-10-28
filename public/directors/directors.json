@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hayao Miyazaki",
+    "nacimiento": "1941-01-05",
+    "defuncion": null,
+    "nacionalidad": "Japonesa",
+    "educacion": "Universidad de las Artes de Tokio",
+    "imagen": "https://cdn.britannica.com/15/201115-050-9CCC50F9/Miyazaki-Hayao-2008.jpg",
+    "link": null
+  },
+  {
+    "id": 2,
+    "nombre": "Tim Burton",
+    "nacimiento": "1957-08-09",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "CalArts",
+    "imagen": "https://hips.hearstapps.com/hmg-prod/images/tim-burton-9542431-1-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
+    "link": "https://www.timburton.com/"
+  },
+  {
+    "id": 3,
+    "nombre": "Walt Disney",
+    "nacimiento": "1928-12-05",
+    "defuncion": "1966-12-15",
+    "nacionalidad": "Estadounidense",
+    "educacion": "Escuela de Bellas Artes de Chicago",
+    "imagen": "https://californiamuseum.org/wp-content/uploads/Disney001-resized-scaled.jpg",
+    "link": null
+  },
+  {
+    "id": 4,
+    "nombre": "John Lasseter",
+    "nacimiento": "1957-01-12",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "California Institute of the Arts",
+    "imagen": "https://cdn.britannica.com/56/205056-050-05248E4C/John-Lasseter-2011.jpg",
+    "link": null
+  },
+  {
+    "id": 5,
+    "nombre": "Andrew Stanton",
+    "nacimiento": "1965-12-03",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "California Institute of the Arts",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaROUSERw-gPX_lH39ev9n_NucsYQwOtFaVQ&s",
+    "link": null
+  },
+  {
+    "id": 6,
+    "nombre": "Robert Zemeckis",
+    "nacimiento": "1952-05-14",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "California Institute of the Arts",
+    "imagen": "https://pics.filmaffinity.com/robert_zemeckis-137775569127981-nm_200.jpg",
+    "link": "https://example.com/director7"
+  },
+  {
+    "id": 7,
+    "nombre": "Henry Selick",
+    "nacimiento": "1965-12-03",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "California Institute of the Arts",
+    "imagen": "https://pics.filmaffinity.com/henry_selick-126935282445027-nm_large.jpg",
+    "link": "null"
+  },
+  {
+    "id": 8,
+    "nombre": "Nathan Greno",
+    "nacimiento": "1975-03-22",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "Columbus College of Art and Design",
+    "imagen": "https://pics.filmaffinity.com/nathan_greno-037806591995864-nm_200.jpg",
+    "link": null
+  },
+  {
+    "id": 9,
+    "nombre": "Byron Howard",
+    "nacimiento": "1968-12-26",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "The Evergreen State College",
+    "imagen": "https://pics.filmaffinity.com/byron_howard-123691803665126-nm_200.jpg",
+    "link": null
+  },
+  {
+    "id": 10,
+    "nombre": "Travis Knight",
+    "nacimiento": "1973-09-13",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "Portland State University",
+    "imagen": "https://pics.filmaffinity.com/travis_knight-172677410172239-nm_large.jpg",
+    "link": null
+  },
+  {
+    "id": 11,
+    "nombre": "Chris Williams",
+    "nacimiento": "1968-12-19",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "University of Waterloo Sheridan College",
+    "imagen": "https://pics.filmaffinity.com/chris_williams-164031211119551-nm_large.jpg",
+    "link": null
+  },
+  {
+    "id": 12,
+    "nombre": "Don Hall",
+    "nacimiento": "1969-03-08",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "University of Iowa",
+    "imagen": "https://pics.filmaffinity.com/don_hall-258384922451118-nm_large.jpg",
+    "link": null
+  },
+  {
+    "id": 13,
+    "nombre": "Andrew Adamson",
+    "nacimiento": "1966-12-01",
+    "defuncion": null,
+    "nacionalidad": "Neozelandés",
+    "educacion": "",
+    "imagen": "https://pics.filmaffinity.com/andrew_adamson-057723607757422-nm_large.jpg",
+    "link": null
+  },
+  {
+    "id": 14,
+    "nombre": "Vicky Jenson",
+    "nacimiento": "1960-03-04",
+    "defuncion": null,
+    "nacionalidad": "Estadounidense",
+    "educacion": "Academy of Art University",
+    "imagen": "https://pics.filmaffinity.com/vicky_jenson-212019611697414-nm_large.jpg",
+    "link": null
+  }
+]
+
